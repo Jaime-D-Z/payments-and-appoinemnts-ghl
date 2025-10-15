@@ -611,7 +611,7 @@ ALLOWED_HOSTS=localhost,127.0.0.1,your-domain.com
 ## 📞 Soporte y Contacto
 
 - **GitHub Issues:** [Reportar un problema](https://github.com/Jaime-D-Z/payments-and-appoinemnts-ghl/issues)
-- **Documentación GHL:** [GoHighLevel API Docs](https://highlevel.stoplight.io/)
+- **Documentación GHL:** [GoHighLevel API Docs](https://marketplace.gohighlevel.com/docs/)
 - **Documentación MP:** [Mercado Pago Developers](https://www.mercadopago.com.pe/developers/es)
 
 ---
